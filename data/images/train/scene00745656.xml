@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GH010821_frames</folder>
+	<filename>scene00745656.jpg</filename>
+	<path>/Volumes/Samsung_T5/Dataset/budapest/GH010821_frames/scene00745.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1608</xmin>
+			<ymin>571</ymin>
+			<xmax>1666</xmax>
+			<ymax>699</ymax>
+		</bndbox>
+	</object>
+</annotation>
